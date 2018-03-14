@@ -1,0 +1,48 @@
+$first-background:brown;
+$second-background:blue;
+$third-background:green;
+$fourth-background:yellow;
+$fifth-background:red;
+@mixin div-styles {
+  border-radius: 50%;
+  color: white;
+  text-align: center;
+  margin: auto;
+  margin-top: 6%;
+}
+div{
+  background: $first-background;
+  width: 500px;
+  height: 500px;
+  @include div-styles;
+  div{
+    background: $second-background;
+    width: 400px;
+    height: 400px;
+    @include div-styles;
+
+    div{
+      background: $third-background;
+      width: 300px;
+      height: 300px;
+      @include div-styles;
+
+      div{  background: $fourth-background;
+
+        width: 200px;
+        height: 200px;
+        @include div-styles;
+        margin-top: 10%;
+
+        div{
+          background: $fifth-background;
+          width: 100px;
+          height: 100px;
+          @include div-styles;
+          margin-top: 15%;
+vertical-align: middle;
+        }
+      }
+    }
+  }
+}

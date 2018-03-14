@@ -1,0 +1,10 @@
+body {
+    background: url("img/home-bg.jpg")no-repeat;
+background-size: cover;
+}
+.navbar{
+    background-color: transparent !important;
+}
+.mt-4{
+    padding-top: 150px;
+}
