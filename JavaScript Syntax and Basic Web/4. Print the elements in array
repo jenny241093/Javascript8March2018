@@ -1,0 +1,10 @@
+// JavaScript source code
+let numbers=[1,2,3,4,5];
+for(let i in numbers)
+{
+console.log(numbers[i]);
+}
+let sounds = ['aaa', 'ooo', 'uuu']; 
+for (let i in sounds)
+  console.log(sounds[i]);
+

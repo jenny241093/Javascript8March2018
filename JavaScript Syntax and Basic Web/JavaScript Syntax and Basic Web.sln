@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Javascript Syntax and Basic Web", "Javascript Syntax and Basic Web", "{57B969BC-9CDD-46B6-817A-C992B34CBB0F}"
+	ProjectSection(SolutionItems) = preProject
+		1. Calculate = 1. Calculate
+		2. Bigger Number = 2. Bigger Number
+		3. First 20 Numbers = 3. First 20 Numbers
+		4. Print the elements in array = 4. Print the elements in array
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25745A6E-362B-4113-B02A-A4CF577288D2}
+	EndGlobalSection
+EndGlobal
