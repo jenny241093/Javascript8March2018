@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12637abd-f775-460d-aec0-2124e179b80a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="01..js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.MultiplyANumberBy2/01..js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+              <folding>
+                <marker date="1521374048999" expanded="true" signature="29:50" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.Multiply Two Numbers/02.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+              <folding>
+                <marker date="1521374088256" expanded="true" signature="32:51" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03.MultiplyDivide a Number by a Given Second Number/03.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <folding>
+                <marker date="1521374112232" expanded="true" signature="37:116" ph="{...}" />
+                <marker date="1521374112232" expanded="true" signature="51:78" ph="{...}" />
+                <marker date="1521374112232" expanded="true" signature="87:114" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04.Product of 3 Numbers/04.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+              <folding>
+                <marker date="1521374218664" expanded="true" signature="32:504" ph="{...}" />
+                <marker date="1521374218664" expanded="true" signature="148:204" ph="{...}" />
+                <marker date="1521374218664" expanded="true" signature="249:283" ph="{...}" />
+                <marker date="1521374218664" expanded="true" signature="298:332" ph="{...}" />
+                <marker date="1521374218664" expanded="true" signature="347:381" ph="{...}" />
+                <marker date="1521374218664" expanded="true" signature="416:456" ph="{...}" />
+                <marker date="1521374218664" expanded="true" signature="462:502" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05.Print Numbers from 1 to N/05.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <folding>
+                <marker date="1521374243795" expanded="true" signature="33:101" ph="{...}" />
+                <marker date="1521374243795" expanded="true" signature="68:99" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/06.Print Numbers from N to 1/06.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <folding>
+                <marker date="1521374266804" expanded="true" signature="33:101" ph="{...}" />
+                <marker date="1521374266804" expanded="true" signature="68:99" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07.Print Numbers in Reversed Order/07.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding>
+                <marker date="1521372357848" expanded="true" signature="42:122" ph="{...}" />
+                <marker date="1521372357848" expanded="true" signature="84:120" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08.Set Values to Indexes in an Array/08.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01..js" />
+        <option value="$PROJECT_DIR$/07.Print Numbers in Reversed Order/07.js" />
+        <option value="$PROJECT_DIR$/01.MultiplyANumberBy2/01..js" />
+        <option value="$PROJECT_DIR$/02.Multiply Two Numbers/02.js" />
+        <option value="$PROJECT_DIR$/03.MultiplyDivide a Number by a Given Second Number/03.js" />
+        <option value="$PROJECT_DIR$/04.Product of 3 Numbers/04.js" />
+        <option value="$PROJECT_DIR$/05.Print Numbers from 1 to N/05.js" />
+        <option value="$PROJECT_DIR$/06.Print Numbers from N to 1/06.js" />
+        <option value="$PROJECT_DIR$/08.Set Values to Indexes in an Array/08.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1111" />
+    <option name="y" value="68" />
+    <option name="width" value="950" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="05.Exercise JavaScript Fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05.Exercise JavaScript Fundamentals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="05.Exercise JavaScript Fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05.Exercise JavaScript Fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="02.Multiply Two Numbers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="05.Exercise JavaScript Fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="05.Exercise JavaScript Fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="03.MultiplyDivide a Number by a Given Second Number" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="ter&#9;ACTION&#9;ActivateTerminalToolWindow&#10;terminal&#9;ACTION&#9;ActivateTerminalToolWindow" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jenny\WebstormProjects\Javascript\Javascript8March2018\05.Exercise JavaScript Fundamentals\01.MultiplyANumberBy2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.08.js">
+    <configuration name="03.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="03.js" working-dir="$PROJECT_DIR$/03.MultiplyDivide a Number by a Given Second Number" />
+    <configuration name="04.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="04.js" working-dir="$PROJECT_DIR$/04.Product of 3 Numbers" />
+    <configuration name="05.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="05.js" working-dir="$PROJECT_DIR$/05.Print Numbers from 1 to N" />
+    <configuration name="06.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="06.js" working-dir="$PROJECT_DIR$/06.Print Numbers from N to 1" />
+    <configuration name="08.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="08.js" working-dir="$PROJECT_DIR$/08.Set Values to Indexes in an Array" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.03.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.04.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.05.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.06.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.08.js" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.08.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.06.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.05.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.04.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.03.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12637abd-f775-460d-aec0-2124e179b80a" name="Default" comment="" />
+      <created>1521268469174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521268469174</updated>
+      <workItem from="1521268470550" duration="740000" />
+      <workItem from="1521269352281" duration="1335000" />
+      <workItem from="1521353463515" duration="10287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12362000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1111" y="68" width="950" height="990" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37544274" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01.MultiplyANumberBy2/01..js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1521374048999" expanded="true" signature="29:50" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.MultiplyANumberBy2/01..js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1521374048999" expanded="true" signature="29:50" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.MultiplyANumberBy2/01..js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <marker date="1521374048999" expanded="true" signature="29:50" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.Multiply Two Numbers/02.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding>
+            <marker date="1521374088256" expanded="true" signature="32:51" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.MultiplyDivide a Number by a Given Second Number/03.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <marker date="1521374112232" expanded="true" signature="37:116" ph="{...}" />
+            <marker date="1521374112232" expanded="true" signature="51:78" ph="{...}" />
+            <marker date="1521374112232" expanded="true" signature="87:114" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.Product of 3 Numbers/04.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="1" lean-forward="false" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <marker date="1521374218664" expanded="true" signature="32:504" ph="{...}" />
+            <marker date="1521374218664" expanded="true" signature="148:204" ph="{...}" />
+            <marker date="1521374218664" expanded="true" signature="249:283" ph="{...}" />
+            <marker date="1521374218664" expanded="true" signature="298:332" ph="{...}" />
+            <marker date="1521374218664" expanded="true" signature="347:381" ph="{...}" />
+            <marker date="1521374218664" expanded="true" signature="416:456" ph="{...}" />
+            <marker date="1521374218664" expanded="true" signature="462:502" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.Print Numbers from N to 1/06.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <marker date="1521374266804" expanded="true" signature="33:101" ph="{...}" />
+            <marker date="1521374266804" expanded="true" signature="68:99" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Print Numbers from 1 to N/05.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <marker date="1521374243795" expanded="true" signature="33:101" ph="{...}" />
+            <marker date="1521374243795" expanded="true" signature="68:99" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.Print Numbers in Reversed Order/07.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1521372357848" expanded="true" signature="42:122" ph="{...}" />
+            <marker date="1521372357848" expanded="true" signature="84:120" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.Set Values to Indexes in an Array/08.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
