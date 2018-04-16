@@ -1,0 +1,90 @@
+@import "https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900 ";
+* {
+  font-family: 'Lato',sans-serif; }
+
+header {
+  background: url("images/cover.jpg") no-repeat center;
+  background-size: cover;
+  height: 590px; }
+  header img {
+    width: 100px;
+    padding-left: 40px; }
+  header nav {
+    float: right;
+    width: 100%;
+    height: 64px;
+    display: flex;
+    justify-content: space-between;
+    background: #EAEBEF;
+    padding: 0px 23px; }
+  header ul {
+    display: flex; }
+    header ul li {
+      list-style-type: none;
+      padding: 16px; }
+      header ul li a {
+        text-decoration: none;
+        font-size: 19px;
+        text-transform: uppercase;
+        color: #86878B;
+        position: relative;
+        bottom: 10px; }
+        header ul li a:hover {
+          color: #74B8BC; }
+
+main .intro article {
+  background: #FAE6E7;
+  height: 200px; }
+  main .intro article p {
+    text-align: left;
+    width: 41%;
+    margin: auto;
+    color: #857B7B;
+    padding-top: 63px;
+    font-family: "Lato", sans-serif; }
+main .crew {
+  display: flex;
+  justify-content: space-between;
+  margin: 59px; }
+  main .crew article {
+    width: 30%; }
+    main .crew article img {
+      width: 100%; }
+    main .crew article p {
+      display: block;
+      color: #857B7B; }
+  main .crew .inside p {
+    width: 51%;
+    position: relative;
+    bottom: 115px;
+    left: 187px; }
+main h1 {
+  text-align: center;
+  font-family: 'Lato',sans-serif;
+  color: #857B7B;
+  padding: 42px; }
+main .logo {
+  display: flex;
+  justify-content: space-between;
+  padding: 7px 101px; }
+  main .logo img {
+    width: 10%;
+    height: 40px; }
+main footer nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 84px;
+  background: #EAEBEF; }
+  main footer nav li {
+    list-style-type: none;
+    color: #6A5F59;
+    padding-bottom: 10px; }
+main footer div {
+  margin: 20px;
+  color: #6A5F59;
+  font-size: 35px;
+  text-align: center; }
+  main footer div i {
+    padding-right: 20px; }
+
+/*# sourceMappingURL=style.css.map */

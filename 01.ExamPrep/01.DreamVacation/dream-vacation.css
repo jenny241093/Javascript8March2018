@@ -1,0 +1,64 @@
+@import "https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900 ";
+header {
+  background: linear-gradient(rgba(20, 20, 20, 0.3), rgba(20, 20, 20, 0.3)), url("images/background.jpg");
+  background-size: cover;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  font-family: "Lato",sans-serif; }
+  header .img-ctr {
+    width: 30%; }
+  header nav {
+    width: 67%; }
+  header ul {
+    display: flex;
+    justify-content: center; }
+    header ul li {
+      list-style-type: none;
+      margin-left: 10px;
+      margin-right: 10px; }
+      header ul li a {
+        text-decoration: none;
+        color: white;
+        font-weight: bold; }
+  header .nav-ctr {
+    display: flex;
+    justify-content: space-between; }
+  header h1 {
+    margin-top: 60px; }
+  header p {
+    margin-bottom: 338px; }
+
+main section.destination-ctr {
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-around;
+  background: darkgray; }
+  main section.destination-ctr .info-ctr {
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px; }
+    main section.destination-ctr .info-ctr p {
+      margin-top: 0;
+      margin-bottom: 0; }
+  main section.destination-ctr article {
+    width: 30%; }
+    main section.destination-ctr article img {
+      width: 100%; }
+
+.customers-say {
+  text-align: center; }
+  .customers-say p {
+    color: gray; }
+  .customers-say section {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    color: gray; }
+    .customers-say section img {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%; }
+
+/*# sourceMappingURL=dream-vacation.css.map */

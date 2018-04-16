@@ -1,0 +1,10 @@
+#accordion h3{
+    background-color: darkred;
+    color: white;
+}
+
+ li{
+    background-color: white;
+    color: darkred;
+    list-style-type: none;
+}
